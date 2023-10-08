@@ -1,0 +1,3 @@
+<launch>
+	<node pkg="differential_robot" type="maze_solver.py" name="run" output="screen"/>
+</launch>
